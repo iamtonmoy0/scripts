@@ -1,5 +1,5 @@
 #!/bin/bash
-PATH_TO_DIRSEARCH="/Users/vickieli/tools/dirsearch"
+PATH_TO_DIRSEARCH="/Users/"
 TODAY=$(date)
 echo "This scan was created on $TODAY"
 DOMAIN=$1
